@@ -1,4 +1,4 @@
-package U.Led6_Theory;
+package U.Lec6_Theory;
 import java.util.*;
 public class Merge_Sort {
     private void merge(int[] arr, int low, int mid, int high) {

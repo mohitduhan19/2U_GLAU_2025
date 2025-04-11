@@ -1,7 +1,5 @@
 package U.Lec25_Theory;
 
-import U.Lec24_Lab.convert_sorted_array_bst;
-
 public class Validate_bst {
     public class TreeNode {
         int val;

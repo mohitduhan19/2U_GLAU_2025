@@ -1,6 +1,4 @@
-package U.Lec24_Lab;
-
-import U.Lec23_Theory.Delete_Node_bst;
+package U.Lec24_PCPH;
 
 public class kth_smallest_element {
     public class TreeNode {
